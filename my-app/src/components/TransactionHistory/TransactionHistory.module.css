@@ -1,0 +1,19 @@
+.table {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tableHead {
+  background-color: lightblue;
+}
+
+.tableItem {
+  width: 150px;
+  height: 40px;
+
+  border: 1px solid grey;
+}
+
+.tableRow:nth-child(2n) {
+  background-color: lightgray;
+}

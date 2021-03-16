@@ -1,0 +1,17 @@
+.statistics {
+  padding: 20px;
+}
+
+.statList {
+  display: flex;
+  justify-content: space-around;
+  padding: 0px;
+}
+
+.item {
+  list-style-type: none;
+}
+
+.percentage {
+  display: block;
+}
